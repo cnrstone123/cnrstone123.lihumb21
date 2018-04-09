@@ -1,0 +1,8 @@
+<activity andorid:name="BrowserActivity"
+			android:label="@string@app_name">
+	<intent-filter>
+		<action android:name="andorid.intent.action.VIEW" />
+		<categoty android:name="andorid.intent.categoty.DEFAULT" />
+		<data android:scheme="http" />
+	</intent-filter>
+</activity>
