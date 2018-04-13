@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:18:1-54:12
+INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:18:1-54:12
+INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:18:1-54:12
+MERGED from [com.android.support:gridlayout-v7:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-23.0.0.aar\ebbe1f36cf4d04db8b9d68170219a1aa\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\ec0f2dd4fe65487a6e00b98b0b37f451\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\f88d686b3af364a5de48e0a3fd8fbb03\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.0.aar\e4f120c5d556bdc6151054e6bec04fce\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:18:1-54:12
+INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:18:1-54:12
+	package
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:19:5-56
+	android:versionName
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+application
+ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:27:5-52:19
+MERGED from [com.android.support:gridlayout-v7:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-23.0.0.aar\ebbe1f36cf4d04db8b9d68170219a1aa\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:gridlayout-v7:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-23.0.0.aar\ebbe1f36cf4d04db8b9d68170219a1aa\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\ec0f2dd4fe65487a6e00b98b0b37f451\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\ec0f2dd4fe65487a6e00b98b0b37f451\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\f88d686b3af364a5de48e0a3fd8fbb03\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\f88d686b3af364a5de48e0a3fd8fbb03\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.0.aar\e4f120c5d556bdc6151054e6bec04fce\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.0.aar\e4f120c5d556bdc6151054e6bec04fce\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:31:9-35
+	android:theme
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:30:9-47
+activity#com.example.android.actionbarcompat.basic.MainActivity
+ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:33:9-40:20
+	android:label
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:34:21-53
+	android:name
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:33:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:38:27-74
+activity#com.example.android.actionbarcompat.basic.ShowActivity
+ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:42:9-50:20
+	android:label
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:43:21-53
+	android:name
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:42:19-47
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:http
+ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:44:13-49:29
+action#android.intent.action.VIEW
+ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:46:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:47:17-78
+	android:name
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:47:27-75
+data
+ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:48:17-47
+	android:scheme
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml:48:23-44
+uses-sdk
+INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:gridlayout-v7:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-23.0.0.aar\ebbe1f36cf4d04db8b9d68170219a1aa\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:gridlayout-v7:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-23.0.0.aar\ebbe1f36cf4d04db8b9d68170219a1aa\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\ec0f2dd4fe65487a6e00b98b0b37f451\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\ec0f2dd4fe65487a6e00b98b0b37f451\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\f88d686b3af364a5de48e0a3fd8fbb03\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\f88d686b3af364a5de48e0a3fd8fbb03\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.0.aar\e4f120c5d556bdc6151054e6bec04fce\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.0.0] E:\ProgFile\android_repos\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.0.aar\e4f120c5d556bdc6151054e6bec04fce\AndroidManifest.xml:20:5-43
+INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+		ADDED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\projFile\AndroidSPACE\ActionBarCompat-Basic\Application\src\main\AndroidManifest.xml
