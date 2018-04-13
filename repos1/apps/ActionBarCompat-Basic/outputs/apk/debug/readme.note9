@@ -1,0 +1,56 @@
+//-- ========================
+//-- AppTest(ActionBarCompat-Basic) in Nexus_5_API_23
+//-- ========================
+
+1.menu creation (statically and dynamically)
+2.param transitions to another-activity (on submit-clicked)
+3.param transitions to browser (on browsing-clicked)
+4.getting result from another-activity(2) or browser(3)
+
+//-- =======================================
+//--  memo.installing apk
+//-- =======================================
+
+(prompt) cd android-sdk\platform-tools
+(prompt) adb.exe install (apk-file-full-path)\APK_NAME.apk
+(prompt) adb.exe uninstall (APK_PAKCAGE_NAME)
+
+(ex) adb install (apk-file-full-path)\Application-debug.apk
+(ex) adb uninstall com.example.android.actionbarcompat.basic
+
+//-- =======================================
+//--  memo.launching avd in command-console without android-studio
+//-- =======================================
+
+//-- listing avd
+
+(prompt) cd android-sdk\tools\bin
+(prompt) android-sdk\tools\bin> avdmanager list avd
+
+Parsing android-sdk\add-ons\addon-google_apis-google-23\package.xml
+Parsing android-sdk\add-ons\addon-google_apis-google-24\package.xml
+Parsing android-sdk\build-tools\19.1.0\package.xml
+Parsing android-sdk\build-tools\22.0.1\package.xml
+Parsing android-sdk\build-tools\23.0.1\package.xml
+Parsing android-sdk\build-tools\23.0.2\package.xml
+Parsing android-sdk\build-tools\23.0.3\package.xml
+Parsing android-sdk\build-tools\24.0.2\package.xml
+Parsing android-sdk\build-tools\24.0.3\package.xml
+...
+...
+...
+
+    Name: Nexus_5_API_23
+  Device: Nexus 5 (Google)
+    Path: (user_home) \.android\avd\Nexus_5_API_23.avd
+  Target: Default
+          Based on: Android 6.0 (Marshmallow) Tag/ABI: default/armeabi-v7a
+    Skin: nexus_5
+  Sdcard: 100M
+
+//-- launching avd
+
+(prompt) cd \android-sdk\tools
+(prompt) android-sdk\tools> ./emulator -avd NAME_OF_YOUR_DEVICE
+
+(ex) ./emulator -avd Nexus_5_API_23
