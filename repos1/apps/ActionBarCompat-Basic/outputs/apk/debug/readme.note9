@@ -51,6 +51,24 @@ Parsing android-sdk\build-tools\24.0.3\package.xml
 //-- launching avd
 
 (prompt) cd \android-sdk\tools
-(prompt) android-sdk\tools> ./emulator -avd NAME_OF_YOUR_DEVICE
+(prompt) android-sdk\tools> ./emulator -avd AVD_NAME
 
-(ex) ./emulator -avd Nexus_5_API_23
+(ex) ./emulator -avd Nexus_5_API_23 -gpu on
+
+//-- about fast lauching
+read docs.. https://stackoverflow.com/questions/2662650/making-the-android-emulator-run-faster
+
+device: nexus-5
+target-emulator: Based on: Android 6.0 (Marshmallow) Tag/ABI: default/x86_64 (API Level 23)
+
+1.using GPU (enable Intel HAXM hypher-threading)
+....To enable graphics acceleration enabled by default on your emulator
+2.using another-cpu.
+....in task-manager.exe, set affinity another-cpu.
+3.using target-emulator with "Intel atom x86" CPU/ABI
+
+without accl.
+emulator -avd AVD_NAME -memory 768 -no-accel -gpu on
+
+(ex) android-sdk\tools> emulator -avd NEXUS_5_API_23 -memory 768 -no-accel -gpu on
+
